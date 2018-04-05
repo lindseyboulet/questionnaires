@@ -29,5 +29,5 @@ This project is licensed under the MIT License - see the [license.md](license.md
 
 ## References
 
-1. Roach, R. C., Bartsch, P., Hackett, P. H., & Olez, O. (1993). The Lake Louise acute mountain sickness scoring system. Hypoxia and Molecular Medicine: Proceedings of the 8th International Hypoxia Symposium Held at Lake Louise, Canada, February 9-13, 1993, 272, 272–274."),
-2. Roach, R., Hackett, P., Oelz, O., Bartsch, P., Luks, A., MacInnis, M., & JK, B. (2017). The new lake louise acute mountain sickness symptom score: 2017."))
+1. Roach, R. C., Bartsch, P., Hackett, P. H., & Olez, O. (1993). The Lake Louise acute mountain sickness scoring system. Hypoxia and Molecular Medicine: Proceedings of the 8th International Hypoxia Symposium Held at Lake Louise, Canada, February 9-13, 1993, 272, 272–274
+2. Roach, R., Hackett, P., Oelz, O., Bartsch, P., Luks, A., MacInnis, M., & JK, B. (2017). The new lake louise acute mountain sickness symptom score: 2017
