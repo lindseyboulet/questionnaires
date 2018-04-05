@@ -1,6 +1,6 @@
-# PFT-Extractor
+# Study Questionnaires with Persistent Data Storage
 
-This app takes VMAX PFT reports in PDF form and extracts useful pulmonary health data into individual and mean tables. Point the app to the directory with PDF files.
+These are questionnaires used in human physiology studies, made using shinyR.  Each app stores questionnaire data in the folder in which the app is located. If data file is present, the app appends data to the present file. The *"studyQuestionnair.R"* is a typical study prescreening form. The *"lakeLouiseScore.R"* is a clinical test for altitude sickness (reference below).   
 
 ## Getting Started
 
@@ -10,19 +10,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 R and RStudio installed
 Required ibraries download automatically
-
-### File Extraction from VMAX
-
-### File Naming Conventions
-
-  File name format: **studyID_subjectID_pft.pdf** <br>
-  eg. shhs_07_pft.pdf
   
 ### Deployment
 
 1. Download Zip file from Git
 2. Extract to folder of choice
-3. Open PFTExtractorApp.R
+3. Open either form 
 5. Click run app in the script editor (source) pane
   - be sure to run app externally (from drop down menu next to "run")
 
@@ -34,4 +27,7 @@ Required ibraries download automatically
 
 This project is licensed under the MIT License - see the [license.md](license.md) file for details
 
-# PFT-Extractor
+## References
+
+1. Roach, R. C., Bartsch, P., Hackett, P. H., & Olez, O. (1993). The Lake Louise acute mountain sickness scoring system. Hypoxia and Molecular Medicine: Proceedings of the 8th International Hypoxia Symposium Held at Lake Louise, Canada, February 9-13, 1993, 272, 272–274."),
+2. Roach, R., Hackett, P., Oelz, O., Bartsch, P., Luks, A., MacInnis, M., & JK, B. (2017). The new lake louise acute mountain sickness symptom score: 2017."))
